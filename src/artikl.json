@@ -1,0 +1,7 @@
+[
+    { "Id":"1", "Naziv":"Pavo", "Proizvodac" : "Xiaomi", "Model" :"Note", "Cijena" :"1000", "Kolicina" :"100" },
+    { "Id":"2", "Naziv":"Samsung Galaxy", "Proizvodac" : "Samsung", "Model" :"Galaxy 22", "Cijena" :"5000", "Kolicina" :"21" },
+    { "Id":"3", "Naziv":"Nokia 3310", "Proizvodac" : "Nokia", "Model" :"3310", "Cijena" :"150", "Kolicina" :"888" },
+    { "Id":"4", "Naziv":"Google pixel 6 pro", "Proizvodac" : "Google", "Model" :"Pixel 6", "Cijena" :"6300", "Kolicina" :"0" },
+    { "Id":"5", "Naziv":"Xiaomi redmi note 10", "Proizvodac" : "Xiaomi", "Model" :"Note", "Cijena" :"7000", "Kolicina" :"100" }
+]
